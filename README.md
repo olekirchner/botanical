@@ -27,10 +27,10 @@ A dark green theme with mainly warm accent colors like red and orange, made for 
 Supported Languages: HTML, CSS, JavaScript 
 
 ## HTML Preview
-![HTML Preview](html-preview.png)
+![HTML Preview](https://raw.githubusercontent.com/olekirchner/botanical/main/images/html-preview.png)
 
 ## CSS Preview
-![CSS Preview](css-preview.png)
+![CSS Preview](https://raw.githubusercontent.com/olekirchner/botanical/main/images/css-preview.png)
 
 ## JS Preview
-![JS Preview](js-preview.png)# botanical
+![JS Preview](https://raw.githubusercontent.com/olekirchner/botanical/main/images/js-preview.png)

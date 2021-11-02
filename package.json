@@ -1,0 +1,37 @@
+{
+  "name": "botanical",
+  "displayName": "Botanical",
+  "description": "A dark green theme with mainly warm accent colors like red and orange.",
+  "version": "0.0.2",
+  "publisher": "olekirchner",
+  "icon": "botanical-logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olekirchner/botanical"
+  },
+  "keywords": [
+    "theme",
+    "botanical",
+    "dark theme",
+    "green theme",
+    "nature theme",
+    "warm theme",
+    "olekirchner",
+    "ole kirchner"
+  ],
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Botanical",
+        "uiTheme": "vs-dark",
+        "path": "./themes/botanical.json"
+      }
+    ]
+  }
+}
