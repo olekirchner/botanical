@@ -1,4 +1,4 @@
-![Botanical Logo](botanical-logo.png)
+![Botanical Logo](https://raw.githubusercontent.com/olekirchner/botanical/main/images/botanical-logo.png)
 
 # Botanical 
 
@@ -17,7 +17,6 @@ A dark green theme with mainly warm accent colors like red and orange, made for 
 </p>
 
 ## Installation via VS Code
----
 1. Open Extensions sidebar panel in VS Code. View → Extensions
 2. Search for Botanical
 3. Click Install to install it
