@@ -1,5 +1,3 @@
-![Botanical Logo](https://raw.githubusercontent.com/olekirchner/botanical/main/images/botanical-logo.png)
-
 # Botanical 
 
 A dark green theme with mainly warm accent colors like red and orange, made for [VS Code](https://code.visualstudio.com/).
