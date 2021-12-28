@@ -1,8 +1,8 @@
 {
   "name": "botanical",
   "displayName": "Botanical",
-  "description": "A dark green theme with mainly warm accent colors like red and orange.",
-  "version": "0.0.4",
+  "description": "A dark green theme with relatively vibrant colors.",
+  "version": "0.0.5",
   "publisher": "olekirchner",
   "icon": "images/botanical-logo.png",
   "repository": {
